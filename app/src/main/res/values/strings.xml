@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CreditCardWallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment_scan">FragmentScanA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_testing">TestingActivity</string>
+
+    <string-array name="card_usage">
+        <item>Debit</item>
+        <item>Credit</item>
+    </string-array>
+    <string name="title_activity_manual">manualActivity</string>
+
+
+</resources>
